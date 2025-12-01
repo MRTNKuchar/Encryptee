@@ -1,0 +1,14 @@
+C:\Users\lolik\Desktop\ood\Encryptee\bin\Debug\net10.0\Encryptee.exe
+C:\Users\lolik\Desktop\ood\Encryptee\bin\Debug\net10.0\Encryptee.deps.json
+C:\Users\lolik\Desktop\ood\Encryptee\bin\Debug\net10.0\Encryptee.runtimeconfig.json
+C:\Users\lolik\Desktop\ood\Encryptee\bin\Debug\net10.0\Encryptee.dll
+C:\Users\lolik\Desktop\ood\Encryptee\bin\Debug\net10.0\Encryptee.pdb
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\Encryptee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\Encryptee.AssemblyInfoInputs.cache
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\Encryptee.AssemblyInfo.cs
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\Encryptee.csproj.CoreCompileInputs.cache
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\Encryptee.dll
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\refint\Encryptee.dll
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\Encryptee.pdb
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\Encryptee.genruntimeconfig.cache
+C:\Users\lolik\Desktop\ood\Encryptee\obj\Debug\net10.0\ref\Encryptee.dll
